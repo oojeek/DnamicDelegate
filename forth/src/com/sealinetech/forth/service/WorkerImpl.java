@@ -8,6 +8,7 @@ public class WorkerImpl implements IWorker
 	{
 		// TODO Auto-generated method stub
 		System.out.println("Worker is working....");
+		System.out.println("Hello world!!!");
 	}
 
 }
